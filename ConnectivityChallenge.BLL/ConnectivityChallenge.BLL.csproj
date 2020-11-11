@@ -10,4 +10,7 @@
   <ItemGroup>
     <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.0" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ConnectivityChallenge.API\ConnectivityChallenge.API.csproj" />
+  </ItemGroup>
 </Project>

@@ -17,6 +17,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ConnectivityChallenge.BLL\ConnectivityChallenge.BLL.csproj" />
-    <ProjectReference Include="..\ConnectivityChallenge\ConnectivityChallengeWebAPI.csproj" />
+    <ProjectReference Include="..\ConnectivityChallenge.WebAPI\ConnectivityChallengeWebAPI.csproj" />
+    <ProjectReference Include="..\ConnectivityChallenge.API\ConnectivityChallenge.API.csproj" />
   </ItemGroup>
 </Project>
