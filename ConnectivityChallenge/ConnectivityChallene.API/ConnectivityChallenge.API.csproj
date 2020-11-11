@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="TranslateAPIService\" />
+    <Folder Include="TranslateAPIService\Model\" />
+    <Folder Include="TranslateAPIService\Service\" />
+    <Folder Include="PokemonAPIService\" />
+    <Folder Include="PokemonAPIService\Model\" />
+    <Folder Include="PokemonAPIService\Service\" />
+  </ItemGroup>
+</Project>
