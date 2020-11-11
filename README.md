@@ -1,6 +1,9 @@
 # ConnectivityChallenge
 Connectivity Challenge - The API converts a Pokemon name to it's Shakespear's style.
 
+# Pre-requisites
+Visual studio 2019, download free from https://visualstudio.microsoft.com/downloads/
+
 # Using the solution
 To work with the code just download the zip file or clone the repository.
 
