@@ -39,6 +39,7 @@ System.Text for Json serialization
 Unit test are provided under the ConnectivityChallenge.UT project
 Use the Test explorer window to run all tests
 
-
+# Feeback
+Any feedback is welcomed, thanks.
 
 
