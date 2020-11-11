@@ -1,0 +1,178 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/manishgoenka/Projects/ConnectivityChallenge/ConnectivityChallenge/ConnectivityChallenge.csproj": {}
+  },
+  "projects": {
+    "/Users/manishgoenka/Projects/ConnectivityChallenge/ConnectivityChallene.API/ConnectivityChallenge.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/manishgoenka/Projects/ConnectivityChallenge/ConnectivityChallene.API/ConnectivityChallenge.API.csproj",
+        "projectName": "ConnectivityChallenge.API",
+        "projectPath": "/Users/manishgoenka/Projects/ConnectivityChallenge/ConnectivityChallene.API/ConnectivityChallenge.API.csproj",
+        "packagesPath": "/Users/manishgoenka/.nuget/packages/",
+        "outputPath": "/Users/manishgoenka/Projects/ConnectivityChallenge/ConnectivityChallene.API/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/manishgoenka/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/manishgoenka/Projects/ConnectivityChallenge/ConnectivityChallenge.BLL/ConnectivityChallenge.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/manishgoenka/Projects/ConnectivityChallenge/ConnectivityChallenge.BLL/ConnectivityChallenge.BLL.csproj",
+        "projectName": "ConnectivityChallenge.BLL",
+        "projectPath": "/Users/manishgoenka/Projects/ConnectivityChallenge/ConnectivityChallenge.BLL/ConnectivityChallenge.BLL.csproj",
+        "packagesPath": "/Users/manishgoenka/.nuget/packages/",
+        "outputPath": "/Users/manishgoenka/Projects/ConnectivityChallenge/ConnectivityChallenge.BLL/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/manishgoenka/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/manishgoenka/Projects/ConnectivityChallenge/ConnectivityChallene.API/ConnectivityChallenge.API.csproj": {
+                "projectPath": "/Users/manishgoenka/Projects/ConnectivityChallenge/ConnectivityChallene.API/ConnectivityChallenge.API.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/manishgoenka/Projects/ConnectivityChallenge/ConnectivityChallenge/ConnectivityChallenge.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/manishgoenka/Projects/ConnectivityChallenge/ConnectivityChallenge/ConnectivityChallenge.csproj",
+        "projectName": "ConnectivityChallenge",
+        "projectPath": "/Users/manishgoenka/Projects/ConnectivityChallenge/ConnectivityChallenge/ConnectivityChallenge.csproj",
+        "packagesPath": "/Users/manishgoenka/.nuget/packages/",
+        "outputPath": "/Users/manishgoenka/Projects/ConnectivityChallenge/ConnectivityChallenge/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/manishgoenka/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/manishgoenka/Projects/ConnectivityChallenge/ConnectivityChallenge.BLL/ConnectivityChallenge.BLL.csproj": {
+                "projectPath": "/Users/manishgoenka/Projects/ConnectivityChallenge/ConnectivityChallenge.BLL/ConnectivityChallenge.BLL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
